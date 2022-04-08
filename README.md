@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadf00d&label=Profile%20views&color=0e75b6&style=flat" alt="deadf00d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadf00d" alt="deadf00d" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/deadf0od" target="blank"><img src="https://img.shields.io/twitter/follow/deadf0od?logo=twitter&style=for-the-badge" alt="deadf0od" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [www.deadf00d.com](www.deadf00d.com)
@@ -30,8 +28,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mmdidelot7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mmdidelot7" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadf00d&show_icons=true&locale=en&layout=compact" alt="deadf00d" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deadf00d&show_icons=true&locale=en" alt="deadf00d" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deadf00d&" alt="deadf00d" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deadf00d&show_icons=true&locale=en&layout=compact" alt="deadf00d" /></p>
